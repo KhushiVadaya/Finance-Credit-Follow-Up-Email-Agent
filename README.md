@@ -169,6 +169,4 @@ Please act immediately: https://pay.example.com/INV-2024-001
 
 ---
 
-## 📝 License
 
-MIT License — for educational/internship submission purposes.
