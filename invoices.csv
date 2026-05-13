@@ -1,0 +1,11 @@
+invoice_no,client_name,client_email,amount,currency,due_date,days_overdue,follow_up_count,payment_link,contact_person,assigned_manager
+INV-2024-001,Rajesh Kapoor,rajesh.kapoor@abccorp.in,45000,INR,2025-04-20,23,3,https://pay.example.com/INV-2024-001,Rajesh Kapoor,Priya Sharma
+INV-2024-002,Sunita Mehta,sunita.mehta@xyzltd.com,120000,INR,2025-04-25,18,2,https://pay.example.com/INV-2024-002,Sunita Mehta,Priya Sharma
+INV-2024-003,Global Tech Pvt Ltd,accounts@globaltech.in,75000,INR,2025-04-28,15,2,https://pay.example.com/INV-2024-003,Amit Sinha,Priya Sharma
+INV-2024-004,Neha Traders,neha@nehatraders.co.in,32000,INR,2025-05-01,12,1,https://pay.example.com/INV-2024-004,Neha Gupta,Priya Sharma
+INV-2024-005,Horizon Exports,finance@horizonexports.com,200000,INR,2025-05-05,8,1,https://pay.example.com/INV-2024-005,Ravi Pillai,Priya Sharma
+INV-2024-006,Bright Solutions,bright@solutions.in,55000,INR,2025-05-08,5,0,https://pay.example.com/INV-2024-006,Deepak Rao,Priya Sharma
+INV-2024-007,Arvind Enterprises,arvind@arvindent.com,89000,INR,2025-04-12,31,4,https://pay.example.com/INV-2024-007,Arvind Patel,Priya Sharma
+INV-2024-008,Coastal Imports,coastal@imports.net,145000,INR,2025-05-03,10,1,https://pay.example.com/INV-2024-008,Sanjay Nair,Priya Sharma
+INV-2024-009,Pinnacle Corp,accounts@pinnaclecorp.in,67000,INR,2025-04-30,13,1,https://pay.example.com/INV-2024-009,Kavita Joshi,Priya Sharma
+INV-2024-010,Metro Supplies,metro@supplies.com,38000,INR,2025-05-06,7,0,https://pay.example.com/INV-2024-010,Rohit Verma,Priya Sharma

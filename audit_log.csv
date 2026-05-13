@@ -1,0 +1,77 @@
+timestamp,invoice_no,client_name,client_email,amount,currency,due_date,days_overdue,stage,tone_used,subject,send_status,dry_run,assigned_manager,error
+2026-05-13T10:19:38.421246,INV-2024-001,Rajesh Kapoor,rajesh.kapoor@abccorp.in,45000,INR,2025-04-20,23,4,Stern & Urgent,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:19:40.953211,INV-2024-001,Rajesh Kapoor,rajesh.kapoor@abccorp.in,45000,INR,2025-04-20,23,4,Stern & Urgent,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:19:42.359719,INV-2024-001,Rajesh Kapoor,rajesh.kapoor@abccorp.in,45000,INR,2025-04-20,23,4,Stern & Urgent,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:19:43.119346,INV-2024-001,Rajesh Kapoor,rajesh.kapoor@abccorp.in,45000,INR,2025-04-20,23,4,Stern & Urgent,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:19:44.231797,INV-2024-001,Rajesh Kapoor,rajesh.kapoor@abccorp.in,45000,INR,2025-04-20,23,4,Stern & Urgent,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:19:44.656660,INV-2024-001,Rajesh Kapoor,rajesh.kapoor@abccorp.in,45000,INR,2025-04-20,23,4,Stern & Urgent,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:19:44.899561,INV-2024-001,Rajesh Kapoor,rajesh.kapoor@abccorp.in,45000,INR,2025-04-20,23,4,Stern & Urgent,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:19:57.288044,INV-2024-002,Sunita Mehta,sunita.mehta@xyzltd.com,120000,INR,2025-04-25,18,3,Formal & Serious,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:20:09.226767,INV-2024-003,Global Tech Pvt Ltd,accounts@globaltech.in,75000,INR,2025-04-28,15,3,Formal & Serious,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:20:21.173941,INV-2024-004,Neha Traders,neha@nehatraders.co.in,32000,INR,2025-05-01,12,2,Polite but Firm,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:20:33.122804,INV-2024-005,Horizon Exports,finance@horizonexports.com,200000,INR,2025-05-05,8,2,Polite but Firm,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:20:44.971921,INV-2024-006,Bright Solutions,bright@solutions.in,55000,INR,2025-05-08,5,1,Warm & Friendly,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:20:45.031789,INV-2024-007,Arvind Enterprises,arvind@arvindent.com,89000,INR,2025-04-12,31,5,ESCALATED – Legal Review,N/A – Flagged for Legal Review,FLAGGED_FOR_LEGAL,True,Priya Sharma,
+2026-05-13T10:20:56.905180,INV-2024-008,Coastal Imports,coastal@imports.net,145000,INR,2025-05-03,10,2,Polite but Firm,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:21:08.792775,INV-2024-009,Pinnacle Corp,accounts@pinnaclecorp.in,67000,INR,2025-04-30,13,2,Polite but Firm,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
+2026-05-13T10:21:21.007071,INV-2024-010,Metro Supplies,metro@supplies.com,38000,INR,2025-05-06,7,1,Warm & Friendly,ERROR,ERROR,True,Priya Sharma,"
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information."
