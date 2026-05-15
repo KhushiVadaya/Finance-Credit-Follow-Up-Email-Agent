@@ -168,5 +168,25 @@ Please act immediately: https://pay.example.com/INV-2024-001
 ```
 
 ---
+## Screenshots
+
+<img width="1920" height="1020" alt="Screenshot 2026-05-15 181713" src="https://github.com/user-attachments/assets/ef976495-60c5-4f0a-9025-467a82f2ee9a" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/822d1b2a-6e71-4c1a-ae77-0755df13e0e5" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3656b169-8c04-48c4-b2dc-758fcb809142" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b4b26b37-469a-4057-9f2a-8ac78acfa8ec" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/722f560a-4cae-4c04-9de8-bb38f0e6aa9b" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/35ea2aa8-a0d5-40f1-8080-7feaa477eb53" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/11613b95-6918-4ef6-97a5-d67938c4a21e" />
+
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
 
 
